@@ -1,9 +1,11 @@
-# MarshmallowMayhem
-## Team 0- MarshmallowMayhem
+# Team 0 - MarshmallowMayhem
+## How To Run
+open MarshmallowMayhem.jar
 
-* To run game: open MarshmallowMayhem.jar
-* Source code located in src/application.
-* Resources located in src/resources.
+## Resources
+Source code located in src/application.
+
+Resources located in src/resources.
 
 Click the robot in credits for a surprise.
 
