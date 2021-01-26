@@ -1,4 +1,7 @@
 # Team 0 - MarshmallowMayhem
+
+![Gameplay](gameplay.gif)
+
 ## How To Run
 open MarshmallowMayhem.jar
 
